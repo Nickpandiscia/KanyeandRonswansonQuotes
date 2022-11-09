@@ -1,0 +1,17 @@
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\bin\Debug\net6.0\KanyeAndRonAPI.exe
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\bin\Debug\net6.0\KanyeAndRonAPI.deps.json
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\bin\Debug\net6.0\KanyeAndRonAPI.runtimeconfig.json
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\bin\Debug\net6.0\KanyeAndRonAPI.dll
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\bin\Debug\net6.0\KanyeAndRonAPI.pdb
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.csproj.AssemblyReference.cache
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.AssemblyInfoInputs.cache
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.AssemblyInfo.cs
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.csproj.CoreCompileInputs.cache
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.csproj.CopyComplete
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.dll
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\refint\KanyeAndRonAPI.dll
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.pdb
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\KanyeAndRonAPI.genruntimeconfig.cache
+C:\Users\npand\repos\KanyeAndRonAPI\KanyeAndRonAPI\obj\Debug\net6.0\ref\KanyeAndRonAPI.dll
